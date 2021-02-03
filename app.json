@@ -1,0 +1,12 @@
+{
+  "name": "heelo-world",
+  "displayName": "heelo-world",
+  "expo": {
+    "name": "heelo-world",
+    "slug": "heelo-world",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
